@@ -27,7 +27,7 @@
 
 Location of UART pins on PCB:
 
-![SILVERCREST Zigbee Gateway SGWZ1A1 PCB](images/uart.jpg)]
+![SILVERCREST Zigbee Gateway SGWZ1A1 PCB](images/uart.jpg)
 
 Connect with: `sudo screen /dev/ttyUSB0 38400`
 
