@@ -1,6 +1,6 @@
 # Hardware hacking: SilverCrest Zigbee Gateway SGWZ1A1 
 
-![SILVERCREST Zigbee Gateway SGWZ1A1 PCB](images/pcb.jpg)]
+![SILVERCREST Zigbee Gateway SGWZ1A1 PCB](images/pcb.jpg)
 
 ## Content
 
